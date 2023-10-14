@@ -27,12 +27,11 @@ The main objectives of this project include:
 1. Data Preprocessing: Cleaning and preparing the dataset for machine learning.
 2.Exploratory data analysis to explore relationships between variables.
 3.Hypotheses testing to identify variables that are significantly associated wuth symptoms of depressive and anxiety disorders.
-4.Feature Engineering: Extracting relevant features from the data.
-5.Model Development: Creating machine learning models to predict indicators of anxiety and depression.
-6.Evaluation: Assessing the model's performance through appropriate metrics.
-7.Interpretability: Understanding the importance of various features in the prediction.
-8.Visualization: Visualizing the results and insights.
-
+4.Visualization: Using bar charts and heatmaps to show the correlation between variables and depression indicators.
+5.Feature Engineering: Extracting relevant features from the data.
+6.Model Development: Creating machine learning models to predict indicators of anxiety and depression.
+7.Evaluation: Assessing the model's performance through appropriate metrics.
+8.Interpretability: Understanding the importance of various features in the prediction.
 
 ## Methodology
 
@@ -43,8 +42,5 @@ I plan to use various machine learning algorithms, such as logistic regression, 
 This project aims to provide a valuable contribution to mental health research by developing a reliable and interpretable machine learning model for identifying indicators of anxiety and depression. By better understanding and early detection of these conditions, we hope to make a positive impact on mental health awareness and support.
 
 ## References
-
-- [Link to the dataset source]
-- [Other relevant sources]
 
 Feel free to reach out if you have any questions or need further information about our projecT.
